@@ -2,7 +2,7 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## [Unreleased](https://github.com/WorksApplications/Sudachi/releases/tag/v)
+## [Unreleased](https://github.com/WorksApplications/Sudachi/compare/v0.8.2...HEAD)
 
 -
 
